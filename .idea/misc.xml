@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/action_board_outline.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/action_button_outline.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/background_layout.xml" value="0.1225" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/board_outline_2.xml" value="0.6" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/duongvien.xml" value="0.14666666666666667" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/ic_drop_humidity.xml" value="0.1225" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/ic_home.xml" value="0.1025" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1225" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/ic_profile_icon.xml" value="0.1225" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/ic_temperature.xml" value="0.1225" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/ic_water_pipeline.xml" value="0.1795" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/ic_watering_can.xml" value="0.1795" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/logo_board.xml" value="0.1265" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/logo_board_2.xml" value="0.113" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/logo_board_4.xml" value="0.1795" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/new_background.xml" value="0.113" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/drawable/warning_board.xml" value="0.1315" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/action_board_outline.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/activity_alarm.xml" value="0.11574074074074074" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/activity_chart.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/activity_display_message.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/activity_setting.xml" value="0.16666666666666666" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/duongvien.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/fragment_alarm.xml" value="0.3333333333333333" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/fragment_chart.xml" value="0.14666666666666667" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/layout/fragment_setting.xml" value="0.3333333333333333" />
+        <entry key="..\:/HCMUT/HK212/Mobile Application/Assignment2/app/src/main/res/menu/bottom_navigation.xml" value="0.134765625" />
+        <entry key="..\:/do-an/SmartFarmApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

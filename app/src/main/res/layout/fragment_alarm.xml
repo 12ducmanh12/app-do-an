@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:background="@color/white"
+    tools:context=".AlarmFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_marginTop="40dp"
+        android:padding="15dp"
+        android:background="@drawable/board_outline_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            apps:layout_constraintRight_toRightOf="parent"
+            apps:layout_constraintBottom_toBottomOf="parent"
+            android:text="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/text_alarm_1"
+            apps:layout_constraintTop_toTopOf="parent"
+            apps:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Thời gian: "/>
+        <TextView
+            android:id="@+id/value_alarm_1"
+            apps:layout_constraintTop_toTopOf="parent"
+            apps:layout_constraintStart_toEndOf="@id/text_alarm_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="0:50 AM 26-04-2022"/>
+
+        <TextView
+            android:id="@+id/alarm_2"
+            android:layout_marginTop="5dp"
+            apps:layout_constraintTop_toBottomOf="@id/text_alarm_1"
+            apps:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Loại báo động: Nhiệt độ"/>
+        <TextView
+            android:id="@+id/text_alarm_3"
+            android:layout_marginTop="5dp"
+            apps:layout_constraintTop_toBottomOf="@id/alarm_2"
+            apps:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Nhiệt độ xảy ra: "/>
+        <TextView
+            android:id="@+id/value_alarm_3"
+            android:layout_marginTop="5dp"
+            apps:layout_constraintTop_toBottomOf="@id/alarm_2"
+            apps:layout_constraintStart_toEndOf="@id/text_alarm_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="40 độ C"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            apps:layout_constraintTop_toBottomOf="@id/text_alarm_3"
+            apps:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Nhiệt độ kết thúc: -1"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

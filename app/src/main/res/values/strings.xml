@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="text">TextView</string>
+    <string name="pump_water_button">TƯỚI NƯỚC</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_user">Tên đăng nhập</string>
+    <string name="prompt_password">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="action_sign_in_short">Đăng nhập</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="project_title">SMART FARM</string>
+    <string name="prompt_email">Email</string>
+    <string name="navigation_home">Trang chủ</string>
+    <string name="navigation_chart">Phân tích</string>
+    <string name="navigation_alarm">Báo động</string>
+    <string name="navigation_setting">Thiết lập</string>
+    <string name="string_temperature">Nhiệt độ</string>
+    <string name="string_humidity">Độ ẩm</string>
+    <string name="string_light">Ánh sáng</string>
+    <string name="string_last_watering">Lần tưới nước cuối:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

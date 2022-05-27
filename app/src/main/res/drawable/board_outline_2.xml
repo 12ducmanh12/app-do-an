@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+                <!-- Set màu nền-->
+                <gradient
+                    android:startColor="#bfbfbf"
+                    android:endColor="#d9d9d9"
+                    android:angle="360" >
+                </gradient>
+
+                <!-- và đây là bán kính đường tròn ở 4 góc -->
+                <corners
+                    android:radius="20dp" >
+                </corners>
+
+        </shape>
+    </item>
+
+    <item
+        android:left="0dp"
+        android:right="0dp"
+        android:top="0dp"
+        android:bottom="3dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#E1F2F7"/>
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+</layer-list>
